@@ -21,7 +21,7 @@ Build a REST API with Flask to manage user data.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/task4-flask-rest-api.git
+git clone https://github.com/Pravalikapole/task4-flask-rest-api.git
 cd task4-flask-rest-api
 ```
 ### 2. Install dependencies
